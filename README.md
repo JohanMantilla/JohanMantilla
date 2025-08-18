@@ -32,17 +32,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 [**Lost Dogs App**](#) – Mobile app to report and find lost pets in Quito.  
-🔹 [**Ferretería Manager**](#) – Android app with SQLite to manage hardware stores.  
-🔹 [**Math Learning Game**](#) – Educational game built with React for high school students.  
-🔹 [**Music Player (ASP.NET)**](#) – N-layer web app with SQL Server for managing and playing songs.  
-
-👉 *Check out more in my [repositories](https://github.com/JohanMantilla).*  
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
