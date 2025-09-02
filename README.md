@@ -1,321 +1,160 @@
-<!-- ====== HEADER SECTION ====== -->
+# 👋 Hi, I'm Johan Mantilla  
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Johan%20Mantilla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Innovation%20Architect&descAlignY=52&descSize=16">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Johan%20Mantilla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Innovation%20Architect&descAlignY=52&descSize=16">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;QA+Automation+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<!-- ====== NAVIGATION BAR ====== -->
 <div align="center">
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/🚀_About-Me-4A90E2?style=for-the-badge&logoColor=white" alt="About"/>
-  </a>
-  <a href="#-tech-arsenal">
-    <img src="https://img.shields.io/badge/⚡_Tech-Arsenal-F39C12?style=for-the-badge&logoColor=white" alt="Tech"/>
-  </a>
-  <a href="#-signature-projects">
-    <img src="https://img.shields.io/badge/💼_Signature-Projects-E74C3C?style=for-the-badge&logoColor=white" alt="Projects"/>
-  </a>
-  <a href="#-performance-metrics">
-    <img src="https://img.shields.io/badge/📊_Performance-Metrics-9B59B6?style=for-the-badge&logoColor=white" alt="Stats"/>
-  </a>
-  <a href="#-connect">
-    <img src="https://img.shields.io/badge/🤝_Connect-With_Me-27AE60?style=for-the-badge&logoColor=white" alt="Connect"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,24&height=180&section=header&text=Johan%20Mantilla&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20QA%20Automation&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
-<br>
+---
 
-<!-- ====== HERO SECTION ====== -->
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="400">
-        <img src="https://i.imgur.com/Hx1nIVt.png" width="120" style="border-radius: 20px; border: 3px solid #4A90E2;"/>
-        <br><br>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=380&height=100&lines=Building+tomorrow's+solutions+today;Full-Stack+%7C+QA+%7C+Cloud+Enthusiast;From+concept+to+production" alt="Dynamic Text" />
-      </td>
-      <td align="left" width="500">
-        <h2>👨‍💻 Professional Summary</h2>
-        <blockquote>
-          <em>"Code is poetry written in logic, tested with precision, and deployed with confidence."</em>
-        </blockquote>
-        <ul style="text-align: left;">
-          <li>🎓 <strong>Software Engineer</strong> - Escuela Politécnica Nacional</li>
-          <li>🏗️ <strong>Architecture Focused</strong> - Clean code & scalable systems</li>
-          <li>🛡️ <strong>Quality Driven</strong> - Testing & security first approach</li>
-          <li>☁️ <strong>Cloud Native</strong> - Modern deployment strategies</li>
-          <li>🌍 <strong>Based in</strong> - Quito, Ecuador 🇪🇨</li>
-        </ul>
-        
-        <div align="center">
-          <img src="https://komarev.com/ghpvc/?username=JohanMantilla&style=flat-square&color=4A90E2" alt="Profile Views"/>
-          <img src="https://img.shields.io/github/followers/JohanMantilla?style=flat-square&color=4A90E2" alt="Followers"/>
-          <img src="https://img.shields.io/github/stars/JohanMantilla?style=flat-square&color=4A90E2" alt="Stars"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🚀 About Me  
 
-<br>
+I’m a **Software Engineer from Ecuador 🇪🇨** with strong experience in **Full-Stack Development** and **QA Automation**.  
+I bridge **scalable software development** with **quality assurance**, ensuring reliability and performance.  
 
-<!-- ====== ABOUT ME SECTION ====== -->
-<h2 align="center" id="-about-me">🚀 About Me</h2>
+- 🔭 **Currently:** Exploring **Cloud Architectures** & **AI-powered testing**  
+- 🌱 **Learning:** Advanced **Microservices** & **DevOps practices**  
+- 💡 **Philosophy:** *"Quality is not an act, it’s a habit."*  
+- ⚡ **Fun Fact:** Automated a 4-hour reporting workflow into a **30-min review process**  
+
+---
+
+## 🛠️ Tech Stack  
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        
-**My Development Philosophy:**
 
-```typescript
-class SoftwareEngineer {
-  constructor() {
-    this.name = "Johan Mantilla";
-    this.location = "Quito, Ecuador 🇪🇨";
-    this.education = "Software Engineering - EPN";
-  }
+### 🌐 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  getCurrentFocus() {
-    return [
-      "Building scalable full-stack applications",
-      "Implementing robust testing strategies", 
-      "Exploring cloud-native architectures",
-      "DevSecOps practices & automation"
-    ];
-  }
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  getPassions() {
-    return {
-      code: "Clean, maintainable, and well-tested",
-      learning: "Continuous improvement mindset",
-      impact: "Software that makes a difference"
-    };
-  }
-}
-```
+### ⚙️ Backend  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-      </td>
-      <td width="40%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=JohanMantilla&show_icons=true&theme=transparent&hide_border=true&custom_title=Quick+Stats&hide=issues" width="100%"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<!-- ====== TECH ARSENAL SECTION ====== -->
-<h2 align="center" id="-tech-arsenal">⚡ Tech Arsenal</h2>
+### ✅ Testing & QA  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<div align="center">
-  
-**🏗️ Architecture & Development**
-  
-<img src="https://skillicons.dev/icons?i=py,java,cs,js,ts,react,nestjs,fastapi,dotnet" alt="Main Stack"/>
-
-**🗄️ Data & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,linux,git,github" alt="Infrastructure"/>
-
-**🧪 Quality & Tools**
-
-<img src="https://skillicons.dev/icons?i=jest,pytest,postman,vscode,figma,npm,yarn" alt="Tools"/>
+### 🔧 Tools & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<details align="center">
-<summary><strong>📊 Detailed Technology Proficiency</strong></summary>
+---
 
-<br>
-
-| Category | Technologies | Proficiency Level |
-|:--------:|:------------|:----------------:|
-| **Backend** | Python, Java, C#, Node.js | ████████░░ 80% |
-| **Frontend** | React, TypeScript, JavaScript | ███████░░░ 70% |
-| **Databases** | PostgreSQL, MongoDB, SQL Server | ████████░░ 80% |
-| **Cloud & DevOps** | Docker, AWS, Linux | ██████░░░░ 60% |
-| **Testing** | Pytest, Jest, Unit Testing | █████████░ 90% |
-| **Architecture** | Clean Architecture, Microservices | ████████░░ 80% |
-
-</details>
-
-<br>
-
-<!-- ====== SIGNATURE PROJECTS SECTION ====== -->
-<h2 align="center" id="-signature-projects">💼 Signature Projects</h2>
-
-<div align="center">
-  <em>Showcasing technical excellence through real-world applications</em>
-</div>
-
-<br>
+## 🌟 Featured Projects  
 
 <table>
-<tr>
-<td width="33%">
-
-### 🤖 [Mini Q&A Assistant](https://github.com/JohanMantilla/mini-qa-assistant)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</div>
-
-**Innovation in Information Retrieval**
-
-• Advanced BM25 search algorithm implementation  
-• Natural language processing capabilities  
-• Comprehensive testing suite (Pytest + RTL)  
-• Containerized deployment strategy  
-
-<div align="center">
-  <a href="https://github.com/JohanMantilla/mini-qa-assistant">
-    <img src="https://img.shields.io/badge/View%20Project-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-</td>
-<td width="33%">
-
-### 🛡️ [Confidata](https://github.com/JohanMantilla/Confidata)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-FF6B6B?style=flat-square&logo=shield&logoColor=white"/>
-</div>
-
-**Enterprise Security Platform**
-
-• Role-based access control (RBAC)  
-• Two-factor authentication (2FA)  
-• End-to-end encryption  
-• Microservices architecture  
-• Real-time notification system  
-
-<div align="center">
-  <a href="https://github.com/JohanMantilla/Confidata">
-    <img src="https://img.shields.io/badge/View%20Project-E74C3C?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-</td>
-<td width="33%">
-
-### 📅 [Sports Events System](https://github.com/JohanMantilla/EventosDeportivos_N_Layer)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Architecture-9B59B6?style=flat-square&logo=blueprint&logoColor=white"/>
-</div>
-
-**Clean Architecture Implementation**
-
-• N-Layer design pattern  
-• Entity-DAL-BLL-UI separation  
-• Secure authentication system  
-• Password hashing & role management  
-• ASP.NET Web Forms expertise  
-
-<div align="center">
-  <a href="https://github.com/JohanMantilla/EventosDeportivos_N_Layer">
-    <img src="https://img.shields.io/badge/View%20Project-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤖 Mini Q&A Assistant</h3>
+      <a href="https://github.com/JohanMantilla/mini-qa-assistant" target="_blank">
+        <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Mini Q&A Assistant Preview" width="90%"/>
+      </a>
+      <p>
+        <b>AI-powered document Q&A system</b><br><br>
+        🔍 BM25 search engine<br>
+        📄 PDF/TXT processing<br>
+        💬 Natural language responses<br>
+        🧪 Full test coverage (pytest & Vitest)<br>
+      </p>
+      <a href="https://github.com/JohanMantilla/mini-qa-assistant" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔐 Confidata</h3>
+      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
+        <img src="https://raw.githubusercontent.com/JohanMantilla/confidata/main/docs/preview.png" alt="Confidata Preview" width="90%"/>
+      </a>
+      <p>
+        <b>Enterprise Data Protection Platform</b><br><br>
+        🔒 End-to-end encryption<br>
+        👥 RBAC implementation<br>
+        📊 Real-time audits<br>
+        ⚖️ LOPDP compliance ready<br>
+      </p>
+      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏆 EventosDeportivos</h3>
+      <a href="https://github.com/JohanMantilla/EventosDeportivos" target="_blank">
+        <img src="https://raw.githubusercontent.com/JohanMantilla/EventosDeportivos/main/docs/preview.png" alt="Eventos Deportivos Preview" width="90%"/>
+      </a>
+      <p>
+        <b>Sports Event Management System</b><br><br>
+        🏗️ N-Layer Architecture<br>
+        🔑 Secure authentication<br>
+        👤 Multi-role user access<br>
+        💾 SQL Server integration<br>
+      </p>
+      <a href="https://github.com/JohanMantilla/EventosDeportivos" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
+---
+
+## 📊 GitHub Analytics  
+
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/🚧_More_Projects-Coming_Soon-F39C12?style=for-the-badge"/>
-  <br>
-  <em>Currently architecting next-generation solutions in Cloud Native and AI/ML domains</em>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanMantilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMantilla&layout=compact&langs_count=8&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMantilla&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<!-- ====== PERFORMANCE METRICS SECTION ====== -->
-<h2 align="center" id="-performance-metrics">📊 Performance Metrics</h2>
+---
+
+## 🤝 Let’s Connect  
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohanMantilla&show_icons=true&theme=transparent&hide_border=true&title_color=4A90E2&icon_color=F39C12&text_color=333333&custom_title=Development%20Analytics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanMantilla&theme=transparent&hide_border=true&stroke=4A90E2&ring=F39C12&fire=E74C3C"/>
-  
-  <br><br>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanMantilla&layout=compact&theme=transparent&hide_border=true&title_color=4A90E2&text_color=333333&langs_count=8&custom_title=Technology%20Distribution"/>
-  
-  <br><br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohanMantilla/JohanMantilla/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JohanMantilla/JohanMantilla/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-mantilla/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohanMantilla)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mantillaazpancho@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://johanmantilla.github.io)  
+
 </div>
 
-<!-- ====== ACHIEVEMENTS SECTION ====== -->
-<details align="center">
-<summary><strong>🏆 Achievements & Milestones</strong></summary>
-
-<br>
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohanMantilla&theme=flat&no-frame=true&row=1&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
+  <img src="https://komarev.com/ghpvc/?username=JohanMantilla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <p><i>"The best way to predict the future is to invent it."</i> – Alan Kay</p>
 </div>
 
-**Professional Milestones:**
-- 🎓 Software Engineering Degree - EPN
-- 💼 Full-Stack Development Experience  
-- 🛡️ QA & Testing Expertise
-- ☁️ Cloud Architecture Knowledge
-- 🔧 DevOps & Automation Skills
-
-</details>
-
-<br>
-
-<!-- ====== CONNECT SECTION ====== -->
-<h2 align="center" id="-connect">🤝 Let's Build Something Amazing Together</h2>
-
 <div align="center">
-  <p><em>Always open to collaborate on innovative projects and discuss cutting-edge technologies</em></p>
-  
-  <a href="https://www.linkedin.com/in/johan-mantilla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mantillaazpancho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://linktr.ee/Johan.Mantilla" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B" alt="Portfolio"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=💡+Innovation+through+code;🚀+Turning+ideas+into+reality;🌟+Let's+create+the+future+together" alt="Contact CTA"/>
-</div>
-
-<!-- ====== FOOTER ====== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-  <br>
-  
-  <sub>
-    <strong>Johan Mantilla</strong> • Software Engineer • Made with ❤️ in Ecuador 🇪🇨
-    <br>
-    <em>"Crafting digital solutions that matter, one commit at a time"</em>
-  </sub>
-  
-  <br><br>
-  
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=JohanMantilla&labelColor=%234A90E2&countColor=%23F39C12&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=JohanMantilla)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a1a2e,60:16213e,100:0f3460&height=120&section=footer" alt="Footer" />
 </div>
