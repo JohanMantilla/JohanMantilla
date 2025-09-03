@@ -12,13 +12,12 @@
 
 ## 🚀 About Me  
 
-I’m a **Software Engineer from Ecuador 🇪🇨** with strong experience in **Full-Stack Development** and **QA Automation**.  
+I’m a **Software Engineer from Ecuador 🇪🇨** with strong experience in **Full-Stack Development**.  
 I bridge **scalable software development** with **quality assurance**, ensuring reliability and performance.  
 
 - 🔭 **Currently:** Exploring **Cloud Architectures** & **AI-powered testing**  
 - 🌱 **Learning:** Advanced **Microservices** & **DevOps practices**  
 - 💡 **Philosophy:** *"Quality is not an act, it’s a habit."*  
-- ⚡ **Fun Fact:** Automated a 4-hour reporting workflow into a **30-min review process**  
 
 ---
 
