@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Johan Mantilla  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;QA+Automation+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,24&height=180&section=header&text=Johan%20Mantilla&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20QA%20Automation&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,24&height=180&section=header&text=Johan%20Mantilla&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ I bridge **scalable software development** with **quality assurance**, ensuring 
     <td width="50%" align="center">
       <h3>🤖 Mini Q&A Assistant</h3>
       <a href="https://github.com/JohanMantilla/mini-qa-assistant" target="_blank">
-        <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Mini Q&A Assistant Preview" width="90%"/>
+<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Mini Q&A Assistant Preview" width="90%"/> -->
       </a>
       <p>
         <b>AI-powered document Q&A system</b><br><br>
@@ -90,8 +90,8 @@ I bridge **scalable software development** with **quality assurance**, ensuring 
     <td width="50%" align="center">
       <h3>🔐 Confidata</h3>
       <a href="https://github.com/JohanMantilla/confidata" target="_blank">
-        <img src="https://raw.githubusercontent.com/JohanMantilla/confidata/main/docs/preview.png" alt="Confidata Preview" width="90%"/>
-      </a>
+<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/confidata/main/docs/preview.png" alt="Confidata Preview" width="90%"/> -->
+      </a> 
       <p>
         <b>Enterprise Data Protection Platform</b><br><br>
         🔒 End-to-end encryption<br>
@@ -108,8 +108,8 @@ I bridge **scalable software development** with **quality assurance**, ensuring 
     <td width="50%" align="center">
       <h3>🏆 EventosDeportivos</h3>
       <a href="https://github.com/JohanMantilla/EventosDeportivos" target="_blank">
-        <img src="https://raw.githubusercontent.com/JohanMantilla/EventosDeportivos/main/docs/preview.png" alt="Eventos Deportivos Preview" width="90%"/>
-      </a>
+<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/EventosDeportivos/main/docs/preview.png" alt="Eventos Deportivos Preview" width="90%"/>   -->
+      </a> 
       <p>
         <b>Sports Event Management System</b><br><br>
         🏗️ N-Layer Architecture<br>
