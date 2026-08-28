@@ -65,59 +65,79 @@ I bridge **scalable software development** with **quality assurance**, ensuring 
 </div>
 
 ---
-
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" align="center">
+      <h3>𝕏 Twitter Clone</h3>
+      <a href="https://github.com/JohanMantilla/flock-twitter-clone.git" target="_blank">
+        <!-- <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Twitter Clone Preview" width="90%"/> -->
+      </a>
+      <p>
+        <b>Full-stack social media platform</b><br><br>
+        ⚛️ Next.js & TypeScript<br>
+        🚀 NestJS & REST APIs<br>
+        🔐 Authentication & authorization<br>
+        ❤️ Posts, likes & user interactions<br>
+        🧠 AI-assisted development with Claude
+      </p>
+      <a href="https://github.com/JohanMantilla/flock-twitter-clone.git" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
       <h3>🤖 Mini Q&A Assistant</h3>
       <a href="https://github.com/JohanMantilla/mini-qa-assistant" target="_blank">
-<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Mini Q&A Assistant Preview" width="90%"/> -->
+        <!-- <img src="https://raw.githubusercontent.com/JohanMantilla/mini-qa-assistant/main/docs/preview.png" alt="Mini Q&A Assistant Preview" width="90%"/> -->
       </a>
       <p>
         <b>AI-powered document Q&A system</b><br><br>
         🔍 BM25 search engine<br>
         📄 PDF/TXT processing<br>
         💬 Natural language responses<br>
-        🧪 Full test coverage (pytest & Vitest)<br>
+        🧪 Full test coverage with pytest & Vitest<br>
+        ⚡ Efficient document retrieval
       </p>
       <a href="https://github.com/JohanMantilla/mini-qa-assistant" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔐 Confidata</h3>
-      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
-<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/confidata/main/docs/preview.png" alt="Confidata Preview" width="90%"/> -->
-      </a> 
-      <p>
-        <b>Enterprise Data Protection Platform</b><br><br>
-        🔒 End-to-end encryption<br>
-        👥 RBAC implementation<br>
-        📊 Real-time audits<br>
-        ⚖️ LOPDP compliance ready<br>
-      </p>
-      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
   </tr>
+
   <tr>
+    <td width="50%" align="center">
+      <h3>🔐 Confidata</h3>
+      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
+        <!-- <img src="https://raw.githubusercontent.com/JohanMantilla/confidata/main/docs/preview.png" alt="Confidata Preview" width="90%"/> -->
+      </a>
+      <p>
+        <b>Enterprise Data Protection Platform</b><br><br>
+        🔒 End-to-end encryption<br>
+        👥 Role-based access control<br>
+        📊 Real-time audit capabilities<br>
+        ⚖️ LOPDP compliance ready<br>
+        🛡️ Secure data management
+      </p>
+      <a href="https://github.com/JohanMantilla/confidata" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+      </a>
+    </td>
     <td width="50%" align="center">
       <h3>🏆 EventosDeportivos</h3>
       <a href="https://github.com/JohanMantilla/EventosDeportivos" target="_blank">
-<!--         <img src="https://raw.githubusercontent.com/JohanMantilla/EventosDeportivos/main/docs/preview.png" alt="Eventos Deportivos Preview" width="90%"/>   -->
-      </a> 
+        <!-- <img src="https://raw.githubusercontent.com/JohanMantilla/EventosDeportivos/main/docs/preview.png" alt="Eventos Deportivos Preview" width="90%"/> -->
+      </a>
       <p>
         <b>Sports Event Management System</b><br><br>
-        🏗️ N-Layer Architecture<br>
+        🏗️ N-Layer architecture<br>
         🔑 Secure authentication<br>
         👤 Multi-role user access<br>
         💾 SQL Server integration<br>
+        📋 Event management
       </p>
       <a href="https://github.com/JohanMantilla/EventosDeportivos" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
       </a>
     </td>
   </tr>
